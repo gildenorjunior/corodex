@@ -1,0 +1,156 @@
+.tema {
+    margin: 10px;
+    padding: 5px;
+}
+
+.tema img{
+    width: 5vw;
+}
+
+.logo {
+    position: relative;
+}
+
+.logo img {
+    width: 50vw;
+    position: relative;
+    left: 350px;
+}
+
+.titulo {
+    margin: 50px 20px 30px;
+    padding: 10px;
+}
+
+.titulo .info {
+    width: 20vw;
+}
+
+.titulo .coronavirus {
+    width: 5vw;
+}
+
+.texto {
+    display: flex;
+}
+
+.texto p {
+    font-size: 18pt;
+}
+
+.situacao-global {
+    display: flex;
+    align-items: center;
+    background: linear-gradient(180deg, #000000 0%, rgba(151, 151, 151, 0) 275.45%);
+    box-shadow: 0px 4px 12px 6px rgba(0, 0, 0, 0.25);
+    margin: 50px 20px 30px;
+    padding: 10px;
+    border-radius: 18px;
+    color: white;
+}
+
+.titulo-card {
+    font-size: 42pt;
+    margin: 15px;
+    position: relative;
+    left: 400px;
+}
+
+.afetados {
+    display: flex;
+    align-items: center;
+    margin: 50px 20px 30px;
+    padding: 10px;
+    border-radius: 18px;
+    background: linear-gradient(180deg, rgb(27, 243, 35) 0%, rgba(5, 29, 6, 0.637) 218.73%);
+    box-shadow: 0px 4px 12px 6px rgba(0, 0, 0, 0.25);
+    height: 50vh;
+}
+
+.icone-card {
+    width: 15vw;
+    padding-left: 15px;
+}
+
+.texto-cards {
+    font-size: 40pt;
+    position: relative;
+    left: 350px;
+    color: white;
+}
+
+.texto-cards p {
+    margin: 15px;
+}
+
+.texto-cards h3 {
+    margin: 15px;
+}
+
+.curados {
+    display: flex;
+    align-items: center;
+    margin: 50px 20px 30px;
+    padding: 10px;
+    border-radius: 18px;
+    background: linear-gradient(180deg, #4B48FF 0%, rgba(0, 0, 0, 0.637) 200%);
+    box-shadow: 0px 4px 12px 6px rgba(0, 0, 0, 0.25);
+    height: 50vh;
+}
+
+
+.mortes {
+    display: flex;
+    align-items: center;
+    margin: 50px 20px 30px;
+    padding: 10px;
+    border-radius: 18px;
+    background: linear-gradient(180deg, #FF5050 0%, rgba(53, 8, 8, 0.637) 249.34%);
+    box-shadow: 0px 4px 12px 6px rgba(0, 0, 0, 0.25);
+    height: 50vh;
+}
+
+.estados-infectados {
+    display: flex;
+    align-items: center;
+    margin: 50px 20px 30px;
+    padding: 10px;
+    border-radius: 18px;
+    background: linear-gradient(180deg, #985AFD 10.29%, rgba(13, 3, 30, 0.637) 168.34%, #000000 168.34%);
+    box-shadow: 0px 4px 12px 6px rgba(0, 0, 0, 0.25);
+    height: 50vh;
+}
+
+.paises-infectados {
+    display: flex;
+    align-items: center;
+    margin: 50px 20px 30px;
+    padding: 10px;
+    border-radius: 18px;
+    background: linear-gradient(180deg, #985AFD 10.29%, rgba(13, 3, 30, 0.637) 168.34%, #000000 168.34%);
+    box-shadow: 0px 4px 12px 6px rgba(0, 0, 0, 0.25);
+    height: 50vh;
+}
+
+.pais {
+    display: flex;
+    align-items: center;
+    background: linear-gradient(180deg, #000000 0%, rgba(151, 151, 151, 0) 275.45%);
+    box-shadow: 0px 4px 12px 6px rgba(0, 0, 0, 0.25);
+    margin: 50px 20px 30px;
+    padding: 10px;
+    border-radius: 18px;
+    color: white;
+}
+
+.titulo-card-pais {
+    font-size: 42pt;
+    margin: 15px;
+    position: relative;
+    left: 550px;
+}
+
+.bandeira-pais img{
+    position: relative;
+    left: 370px;
+}
